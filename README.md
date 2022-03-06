@@ -1,7 +1,7 @@
 # rap_defender
 
 This is an in-browser turn based NFT game based on rappers. I built this by following the project on buildspace, linked below. 
-This app uses hardhat to help deploy the smart contract and the web interface was built using replit, their respective README's are also below.
+This app uses hardhat to help deploy the smart contract and the web interface was built using react and vite, running on replit, their respective README's are also below.
 
 https://buildspace.so/
 
